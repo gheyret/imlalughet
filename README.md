@@ -1,5 +1,4 @@
-# Imla Lughiti
-Hazirqi Zaman Uyghur Edebiy Tilining Imla Lughiti
+#Hazirqi Zaman Uyghur Edebiy Tilining Imla Lughiti(2009-yildiki neshri)
 
 ## 2022/10/20
 OCR da tonutulghandin kéyin, 4 ay tekshürüsh we tüzitish élip bérilip tunji qétim ochuq qilindi.
