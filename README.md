@@ -7,3 +7,9 @@ OCR da tonutulghanni tüzitish we tekshürüshke hemkarlashqan ikki qérindishim
 
 ### 2022/10/24
 Qosh sözler ichide bar, emma tüp soz dep lughetke qoshulmighan sozlerni "qoshulghan_sozler.txt" dégen höjjetke yighip qoyuldi.
+
+## Iltimas
+  Buni ishletkende, mezkur github ulanmisini tilgha élishni untumang.
+  Xataliqni bayqisingiz melum qiling.
+  Lughetning arqisidiki "Yultuzlar we Burjlar", "Qiteler we doler namliri, paytext", "ximiyelik elmet namliri"... qatarliqlarni kirgüzüshke yardem qiling.
+  
