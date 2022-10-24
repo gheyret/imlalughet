@@ -11,5 +11,5 @@ Qosh sözler ichide bar, emma tüp soz dep lughetke qoshulmighan sozlerni "qoshu
 ## Iltimas
   - Buni ishletkende, mezkur github ulanmisini tilgha élishni untumang.
   - Xataliqni bayqisingiz melum qiling.
-  - Lughetning arqisidiki "Yultuzlar we Burjlar", "Qit’eler we doler namliri, paytext", "Ximiyelik element namliri"... qatarliqlarni kirgüzüshke yardem qiling.
+  - Lughetning arqisidiki "Yultuzlar we Burjlar", "Qit’eler we doler namliri, paytext", "Ximiyelik élémént namliri"... qatarliqlarni kirgüzüshke yardem qiling.
   
